@@ -1,0 +1,23 @@
+{
+  "name": "Tamilaga Vettri Kazhagam — TVK Supporters",
+  "short_name": "TVK",
+  "description": "A supporter-built website for Tamilaga Vettri Kazhagam — vision, agenda, updates and volunteering.",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#3f060c",
+  "theme_color": "#8a0f1f",
+  "icons": [
+    {
+      "src": "assets/images/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "assets/images/og-banner.png",
+      "sizes": "1200x630",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
