@@ -57,13 +57,23 @@ python3 -m http.server 8080
 
 ## 📤 Publish to GitHub Pages
 
+**Option A — GitHub Actions (auto-deploy on every push)** ✅ recommended
+
+1. Go to **Settings → Pages**.
+2. Under **Build and deployment → Source**, select **GitHub Actions**.
+3. Save — the included `.github/workflows/deploy-pages.yml` then deploys the site automatically
+   (and on every future push to `main` or the arena branch).
+4. Live at: `https://<your-username>.github.io/karuppusamy/`
+
+**Option B — Deploy from a branch** (no Actions needed)
+
 1. Push this repository to GitHub.
-2. Go to **Settings → Pages**.
-3. Under **Build and deployment**, select **Deploy from a branch**.
-4. Choose the `main` branch (or your branch) and the `/ (root)` folder.
-5. Save — the site will appear at `https://<your-username>.github.io/karuppusamy/`.
+2. Go to **Settings → Pages → Build and deployment → Source**.
+3. Select **Deploy from a branch**, choose your branch and `/ (root)`, then **Save**.
+4. The site appears at `https://<your-username>.github.io/karuppusamy/` within a minute or two.
 
 > `.nojekyll` is included so GitHub Pages serves the site without Jekyll processing.
+> Note: enabling Pages requires the repository owner's permission (repo Settings).
 
 ## 🗞️ Updating news
 
