@@ -1,0 +1,76 @@
+{
+  "news": [
+    {
+      "id": 1,
+      "date": "2026-08-05",
+      "category": "scheme",
+      "title": "Maiden TVK Budget: laptops, gold rings, wedding support & one lakh affordable homes",
+      "excerpt": "The first Budget of the new government allocates ₹2,000 crore for college laptops under the Vetri Madikanini Thittam, ₹812 crore for brides from low-income families, ₹560 crore for newborn gold rings and ₹8,852 crore for housing – school education alone gets ₹44,527 crore.",
+      "url": "#updates"
+    },
+    {
+      "id": 2,
+      "date": "2026-06-06",
+      "category": "governance",
+      "title": "Vetri Thamizhagam — 436 schemes approved by the first Cabinet",
+      "excerpt": "The government's flagship roadmap converts election promises into 436 projects across 10 development pillars and 54 sub-pillars, with district-wise targets, timelines and accountability built into every department.",
+      "url": "#updates"
+    },
+    {
+      "id": 3,
+      "date": "2026-05-10",
+      "category": "election",
+      "title": "Historic oath: TVK government sworn in at Nehru Stadium, Chennai",
+      "excerpt": "Vijay takes oath as Chief Minister of Tamil Nadu and nine ministers are sworn in alongside him — ending nearly six decades of alternating two-party rule in the state.",
+      "url": "#updates"
+    },
+    {
+      "id": 4,
+      "date": "2026-05-04",
+      "category": "election",
+      "title": "TVK wins 108 seats — single-largest party in Tamil Nadu",
+      "excerpt": "In its first-ever Assembly election, TVK wins 108 of 234 seats and forms the government with allied support. Vijay sweeps Perambur by over 53,000 votes and also wins Tiruchirappalli (East).",
+      "url": "#updates"
+    },
+    {
+      "id": 5,
+      "date": "2026-04-16",
+      "category": "party",
+      "title": "Ten Guarantees released: the manifesto for a victorious Tamil Nadu",
+      "excerpt": "TVK unveils its 2026 manifesto with ten guarantees — ₹2,500 monthly support for women heads of families, ₹25 lakh health cover, ₹20 lakh education loans, complete farmer loan waivers and 200 units of free power.",
+      "url": "#updates"
+    },
+    {
+      "id": 6,
+      "date": "2024-10-27",
+      "category": "party",
+      "title": "Vikravandi conference: nearly 8 lakh cadres, one vision",
+      "excerpt": "At its first State conference, TVK unveils its ideology of secular social justice rooted in Periyar, Ambedkar and Kamaraj, and declares it will contest all 234 seats in the 2026 Assembly elections.",
+      "url": "#updates"
+    },
+    {
+      "id": 7,
+      "date": "2024-08-22",
+      "category": "party",
+      "title": "Flag, emblem and anthem unveiled at Panaiyur headquarters",
+      "excerpt": "The historic flag — Vaagai flower, twin elephants and 28 stars on maroon and gold — is unveiled as the party symbol and flag anthem is released to the people of Tamil Nadu.",
+      "url": "#updates"
+    },
+    {
+      "id": 8,
+      "date": "2024-02-02",
+      "category": "party",
+      "title": "TVK is born: Vijay announces Tamilaga Vettri Kazhagam",
+      "excerpt": "C. Joseph Vijay announces the formation of Tamilaga Vettri Kazhagam and declares the party 'battle-ready' for the 2026 Tamil Nadu Assembly elections.",
+      "url": "#updates"
+    },
+    {
+      "id": 9,
+      "date": "2026-05-16",
+      "category": "governance",
+      "title": "Ten Guarantees enter implementation phase across all 38 districts",
+      "excerpt": "Women's monthly income support, ₹25 lakh health insurance, ₹20 lakh education loans, farmer loan waivers and 200 units of free power are now executing across the state with published timelines.",
+      "url": "#updates"
+    }
+  ]
+}
